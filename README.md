@@ -1,8 +1,8 @@
 # Crypto Ronin
-Crypto Ronin was a community-driven NFT collection created by three young innovators. It combined art, charity, and education in a spirited digital adventure.
+Crypto Ronin was a community-driven NFT collection. It integrated learning, philanthropy, and art in an interactive virtual escapade.
 
 ## 🌕 Project Overview
-Crypto Ronin was a limited collection of **1,111 uniquely generated NFTs**, designed to celebrate creativity, collaboration, and community impact. Developed by three NFT enthusiasts, the project aimed to:
+Crypto Ronin was a limited series of **1,111 unique NFTs**, created to commemorate creativity, cooperation, and positive community influence. The project had the following goals:
 
 - **Empower Newcomers**: Simplify the entry into the NFT world for beginners.
 - **Give Back**: Auction a special charity NFT to support meaningful causes.
